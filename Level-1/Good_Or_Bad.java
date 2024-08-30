@@ -1,3 +1,5 @@
+//Good_Or_Bad
+
 class Solution {
     static int isGoodorBad(String S) {
         // code here
