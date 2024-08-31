@@ -1,3 +1,5 @@
+// Pascal_Triangle
+
 class Solution {
     public List<List<Integer>> generate(int numRows) {
         List<List<Integer>>st=new ArrayList<>();

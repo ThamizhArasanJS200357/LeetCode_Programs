@@ -1,3 +1,5 @@
+// Unique row in boolean matrix
+
 class GfG
 {
     public static ArrayList<ArrayList<Integer>> uniqueRow(int a[][],int r, int c)

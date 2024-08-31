@@ -1,3 +1,5 @@
+// daysOfWeek
+
 import java.util.HashMap; 
 
 public class daysOfWeek {
