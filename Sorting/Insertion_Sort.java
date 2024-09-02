@@ -1,4 +1,4 @@
-class insertion_Sort
+class  Insertion_Sort
 {
   static void insert(int arr[],int i)
   {
