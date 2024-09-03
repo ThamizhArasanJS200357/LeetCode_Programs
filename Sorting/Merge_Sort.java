@@ -1,3 +1,5 @@
+// Merge Sort
+
 class Merge_Sort
 {
     void merge(int arr[], int l, int m, int r)
