@@ -1,3 +1,5 @@
+// QuickSort
+
 class QuickSort
 {
     //Function to sort an array using quick sort algorithm.
