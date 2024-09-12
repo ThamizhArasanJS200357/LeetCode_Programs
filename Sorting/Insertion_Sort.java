@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-class  Insertion_Sort
-=======
+
 // Insertion_Sort
 
 class insertion_Sort
->>>>>>> 8ef0a6cdf62c7e6b7ccaaf66164eef56befd07a5
+
 {
   static void insert(int arr[],int i)
   {
