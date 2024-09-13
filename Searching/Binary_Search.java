@@ -1,3 +1,4 @@
+package Searching;
 // Binary Search
 
 public class Binary_Search {
