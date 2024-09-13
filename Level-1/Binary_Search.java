@@ -1,3 +1,5 @@
+// Binary Search
+
 public class Binary_Search {
     public static int search(int []nums, int target) {
         // Write your code here.
