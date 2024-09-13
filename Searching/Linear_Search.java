@@ -1,3 +1,5 @@
+// Linear Search
+
 import java.util.ArrayList ;
 
 public class Linear_Search {
