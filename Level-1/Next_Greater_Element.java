@@ -1,3 +1,5 @@
+// Next Greater Element
+
 public class Next_Greater_Element {
     public static int[] nextGreaterElement(int[] arr, int n) {
         // Write your code here.
